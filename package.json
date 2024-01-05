@@ -1,0 +1,15 @@
+{
+  "name": "age-timer",
+  "version": "1.0.0",
+  "description": "Age timer adapted from chrome extension \"Motivation\"\r https://chrome.google.com/webstore/detail/motivation/ofdgfpchbidcgncgfpdlpclnpaemakoj",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",  
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
