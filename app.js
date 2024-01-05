@@ -15,12 +15,7 @@ $(document).ready(function(){
 
     function load()
     {
-        var dob;
-        if (dob = localStorage.getItem("dob"))
-        {
-            return new Date(parseInt(dob));
-        }
-        return -1;
+        return new Date(parseInt(1039046400000));
     };
 
     function renderAgeLoop()
