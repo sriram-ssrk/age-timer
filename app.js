@@ -15,7 +15,7 @@ $(document).ready(function(){
 
     function load()
     {
-        return new Date(parseInt(1039046400000));
+        return new Date(parseInt(1039651200));
     };
 
     function renderAgeLoop()
